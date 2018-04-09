@@ -1,4 +1,4 @@
-# Active Directory Health Check and Monitoring
+# Active Directory Health Check and Monitoring with PowerShell & Zabbix
 
 ## Getting Started
 
