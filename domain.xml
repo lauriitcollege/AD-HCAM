@@ -1,0 +1,42 @@
+<list>
+  <domain>
+      <Host>     
+        <domainname>123tet.ses</domainname> 
+        <zabbixhost>InfraDir-ADcore-test-STMMYNTET</zabbixhost>
+   
+      </Host> 
+      
+      <Host>     
+       <domainname>stmfspaaaa.123tet.ses</domainname> 
+       <zabbixhost>InfraDir-ADcore-test-FSPASTMMYNTET</zabbixhost>
+      </Host>      
+  </domain>
+
+  <dc>
+ 
+   <dcs>
+        <dcsname>60076.123tet.ses</dcsname>
+        <dcszabbixhost>InfraDir-ADcore-test-60076.123tet.ses</dcszabbixhost>
+        <ip>1.39.3.22</ip>
+   </dcs>
+   
+   <dcs>
+        <dcsname>60075.123tet.ses</dcsname>
+        <dcszabbixhost>InfraDir-ADcore-test-60075.123tet.ses</dcszabbixhost>
+        <ip>1.39.3.21</ip>
+   </dcs>
+   <dcs>
+        <dcsname>60061.123tet.ses</dcsname>
+        <dcszabbixhost>InfraDir-ADcore-test-60061.123tet.ses</dcszabbixhost>        
+        <ip>17.28.14.22</ip>
+   </dcs>
+    <dcs>
+        <dcsname>60060.stmmyntet.se</dcsname>
+        <dcszabbixhost>InfraDir-ADcore-test-60061.123tet.ses</dcszabbixhost>
+        <ip>17.28.14.21</ip>
+   </dcs>
+
+  
+   
+  </dc>
+</list>
