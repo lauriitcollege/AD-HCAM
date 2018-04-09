@@ -39,7 +39,7 @@ In this case a service account is required.
 1. Using Task Scheduler to run these scripts automatically.
 2. Roughly 10-20 minutes is a proper time interval to implement the Health Check and Monitoring.
 3. Down to Zabbix configuration will give you variety of information based on the data. 
-
+![Alt text](https://github.com/enderphan94/AD-HCAM/blob/master/pics/zabbixDone.PNG)
 ## Built With
 
 PowerShell Version 4.0
